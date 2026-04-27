@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.python-version
+.DS_Store
+.pytest_cache/
+
+# Virtual environments
+.venv
+venv/
+
+# Application logs
+logs/*
+!logs/.gitkeep
+*.log
+
+# Idea IDE
+.idea/
+*.iml
